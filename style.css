@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0; list-style:none }
+img{ border:none}
+body{background:#2d1813 url(images/bg.jpg) center top no-repeat; font-family:"微软雅黑"}
+.nav{ width:940px; margin:400px auto 0 auto; height:75px;color:#FFFFFF; }
+.nav ul li{ margin:0; float:left; width:100px; line-height:75px; text-align:center }
+.nav ul li a{color:#FFFFFF; text-decoration:none} 
+.nav ul li a:hover{color:#ffe27a; text-decoration:none} 
+.main{ width:942px; height:465px; margin:0 auto;}
+.main_left{ width:268px; height:430px; border: 1px solid #d4ceba; float:left; margin:10px auto auto 10px; background:#fff;overflow:hidden}
+.main_left_title{ width:228px; height:34px; background:url(images/titlebg.gif) left no-repeat; padding-left:40px; line-height:34px; color:#622f10}
+.download{ width:242px; height:60px; margin:10px auto auto auto}
+.list{ line-height:30px; font-size:14px; margin:10px auto auto auto; }
+.list p{line-height:30px; text-indent: 23px; background:url(images/list_title.gif) no-repeat 15px center; height:30px;overflow:hidden; zoom:1}
+.list a{ display:block; float:left; color:#351205; text-decoration:none;text-overflow:ellipsis;}
+.list a:hover{ color:#aa3c00;text-decoration:underline;}
+.list p span{ display:block; width:40px; text-align:right; color:#351205; float:right; margin-right:10px;text-indent:0;}
+
+.main_m{ width:313px; height:430px; border: 1px solid #d4ceba; float:left; margin:10px auto auto 10px; background:#fff;overflow:hidden}
+.main_m_title{ width:273px; height:34px; background:url(images/titlebg.gif) left no-repeat; padding-left:40px; line-height:34px; color:#622f10}
+.main_m p a{ width:250px; overflow:hidden; white-space:nowrap;}
+.main_m p{line-height:32px; height:32px }
+
+.main_r{ width:315px; height:432px; float:left; margin:10px auto auto 10px; overflow:hidden}
+.main_r_top{width:313px;border: 1px solid #d4ceba; height:264px;background:#fff;overflow:hidden}
+.main_r_title{ width:273px; height:34px; background:url(images/titlebg.gif) left no-repeat; padding-left:40px; line-height:34px; color:#622f10}
+.main_r p a{ width:250px; overflow:hidden; white-space:nowrap;}
+.main_r_bottom{width:313px;border: 1px solid #d4ceba; height:154px;background:#fff;overflow:hidden; margin-top:10px}
+.shop{ width:201px; height:53px; margin:15px auto 15px auto}
+.shoptext{ text-align:center}
+.shoptext a{ text-decoration:none; color:#5F3001}
+
+.bottom{ text-align:center; font-size:14px; color:#BFA489; line-height:60px;}
