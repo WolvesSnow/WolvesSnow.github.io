@@ -4,7 +4,7 @@
 img{ border:none}
 body{background:#2d1813 url(images/bg.jpg) center top no-repeat; font-family:"微软雅黑"}
 .nav{ width:940px; margin:400px auto 0 auto; height:75px;color:#FFFFFF; }
-.nav ul li{ margin:0; float:left; width:100px; line-height:75px; text-align:center }
+.nav ul li{ margin:0; float:left; width:200px; line-height:75px; text-align:center }
 .nav ul li a{color:#FFFFFF; text-decoration:none} 
 .nav ul li a:hover{color:#ffe27a; text-decoration:none} 
 .main{ width:942px; height:465px; margin:0 auto;}
