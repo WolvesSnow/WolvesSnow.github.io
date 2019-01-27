@@ -2,7 +2,7 @@
 /* CSS Document */
 *{ margin:0; padding:0; list-style:none }
 img{ border:none}
-body{background:#2d1813 url(images/bg.jpg) center top no-repeat; font-family:"微软雅黑"}
+body{background:#2d1813 url(http://101.132.125.251/images/bg.jpg) center top no-repeat; font-family:"微软雅黑"}
 .nav{ width:940px; margin:400px auto 0 auto; height:75px;color:#FFFFFF; }
 .nav ul li{ margin:0; float:left; width:200px; line-height:75px; text-align:center }
 .nav ul li a{color:#FFFFFF; text-decoration:none} 
